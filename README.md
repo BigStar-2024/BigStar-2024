@@ -1,123 +1,45 @@
-## brunom8218_s_application2
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
+![Clojure](https://img.shields.io/badge/-Clojure-000000?style=flat&logo=Clojure)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift)
 
-Generated with ❤️ from [DhiWise](https://www.dhiwise.com)
+<p>
+  <a href="https://github.com/SmileDev10162" target="_blank" rel="noopener noreferrer">
+    <img
+      height="180em"
+      src="https://satoshj-readme-state.vercel.app/api?username=satosh-j&hide=contribs&show_icons=true&count_private=true&include_all_commits=true&disable_animations=false&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF"
+      alt='github-stats'
+    />
+    <img
+      height="180em"
+      src="https://satoshj-readme-state.vercel.app/api/top-langs?username=satosh-j&show_icons=true&langs_count=8&layout=compact&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF"
+      alt='github-stats-toplangs'
+    />
+  </a>
+</p>
 
-## Description
+Some of the technologies I have worked with
 
-- This React application is built using [create-react-app](https://create-react-app.dev/).
-- It uses [Tailwind CSS](https://tailwindcss.com/)
-- The application is generated in [TypeScript](https://www.typescriptlang.org/).
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
+![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
+![Java Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&logoColor=6DB33F)
+![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
+![XCode](https://img.shields.io/badge/-XCode-000000?style=flat&logo=XCode&logoColor=1575F9)<!-- wi*quL3fcV -->
 
-## Pre-requisites
+Web/Full Stack projects
 
-- [git](https://git-scm.com/) - v2.13 or greater
-- [NodeJS](https://nodejs.org/en/) - v16 or greater
-- [npm](https://www.npmjs.com/) - v6 or greater
-
-## Running in dev environment
-
-1.  `cd YOUR_APPLICATION`
-2.  `npm install`
-3.  `npm start`
-
-## .env file
-
-This file contains various environment variables that you can configure.
-
-## Folder Structure
-
-```
- .
- ├── package.json
- ├── postcss.config.js
- ├── public
- │   ├── assets
- │   │   └── images --------- All Project Images
- │   ├── favicon.ico
- │   ├── index.html
- │   ├── manifest.json
- │   └── robots.txt
- ├── README.md
- ├── src
- │   ├── App.tsx
- │   ├── assets
- │   │   └── fonts ---------- Project fonts
- │   ├── components --------- UI and Detected Common Components
- │   ├── constants ---------- Project constants, eg: string consts
- │   ├── hooks -------------- Helpful Hooks
- │   ├── index.tsx
- │   ├── pages -------------- All route pages
- │   ├── Routes.tsx ---------- Routing
- │   ├── styles
- │   │   ├── index.css ------ Other Global Styles
- │   │   └── tailwind.css --- Default Tailwind modules
- │   └── util
- │       └── index.tsx ------- Helpful utils
- └── tailwind.config.js ----- Entire theme config, colors, fonts etc.
-```
-
-For the project to build, **these files must exist with exact filenames**:
-
-- `public/index.html` is the page template;
-- `src/index.tsx` is the TypeScript entry point.
-
-You may create subdirectories inside src.
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br>
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time.
-
-## Installing a Dependency
-
-You can install any dependencies (for example, React Router) with `npm`:
-
-```sh
-npm install --save react-router
-```
-
-Alternatively you may use `yarn`:
-
-```sh
-yarn add react-router
-```
-
-## License
-
-MIT License
-
-Copyright (c) 2023 DhiWise
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"),to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-## DhiWise Support
-
-<a href="https://twitter.com/dhiwise"><img src="https://user-images.githubusercontent.com/35039342/55471524-8e24cb00-5627-11e9-9389-58f3d4419153.png" width="60" alt="DhiWise Twitter"></a>
-
-<a href="https://www.youtube.com/c/DhiWise"><img src="https://cdn.vox-cdn.com/thumbor/0kpe316UpZWk53iw3bOLoJfF6hI=/0x0:1680x1050/1400x1400/filters:focal(706x391:974x659):format(gif)/cdn.vox-cdn.com/uploads/chorus_image/image/56414325/YTLogo_old_new_animation.0.gif" width="60" alt="DhiWise YouTube"></a>
-
-<a href=https://discord.gg/UPhCetBkVu"><img src="https://user-images.githubusercontent.com/47489894/183043664-b01aac56-0372-458a-bde9-3f2a6bded21b.png" width="60" alt="DhiWise Discord"></a>
-
-<a href="https://docs.dhiwise.com/docs/react/intro"><img src="https://global-uploads.webflow.com/618e36726d3c0f19c9284e56/62383865d5477f2e4f6b6e2e_main-monogram-p-500.png" width="60" alt="DhiWise Documentation"></a>
+[![Learn with Socrates](https://img.shields.io/badge/-🏫&nbsp;&nbsp;LearnWithSocrates-000000?style=flat)](https://practiceplaygrow.com)
+[![Cyop Community DAO Terminal](https://img.shields.io/badge/-💎&nbsp;CyOp&#8209;Terminal-000000?style=flat)](https://cyop.io)
+[![Chip Leader AI](https://img.shields.io/badge/-🃏&nbsp;&nbsp;ChipLeaderAI-000000?style=flat)](https://ai.chipleader.com)
+[![CoProperty](https://img.shields.io/badge/-📰&nbsp;Co&nbsp;Property-000000?style=flat)](https://coproperty.cloud)
