@@ -79,7 +79,7 @@ Web/Full Stack projects
 | :-----: | :-: |
 | Email | **<bmars8218@gmail.com>** |
 | Discord | **Lionel M** |
-| Telegram | [**live:.cid.81380ea9657f2928**] |
+| Telegram | [**lionel8218**] |
 | <img width=400/> |  |
   
 </div>
