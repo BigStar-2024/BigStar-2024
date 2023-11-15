@@ -90,7 +90,7 @@ Web/Full Stack projects
 | <img width=400/>|<img width=800/>|
 | :-----: | :-: |
 | Email | **<bmars8218@gmail.com>** |
-| Discord | **Lionel M** |
+| Discord | **lionel8218** |
 | Telegram | [**lionel8218**] |
 | <img width=400/> |  |
   
