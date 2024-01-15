@@ -23,10 +23,10 @@
 ![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=satosh-j" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Burnom8218" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=satosh-j&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Burnom8218&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <p>
