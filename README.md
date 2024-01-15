@@ -22,7 +22,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 ![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunom8218)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satosh-j)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>
   <a href="https://github.com/Brunom8218" target="_blank" rel="noopener noreferrer">
