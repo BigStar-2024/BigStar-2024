@@ -33,12 +33,12 @@
   <a href="https://github.com/Brunom8218" target="_blank" rel="noopener noreferrer">
     <img
       height="180em"
-      src="https://satoshj-readme-state.vercel.app/api?username=satosh-j&hide=contribs&show_icons=true&count_private=true&include_all_commits=true&disable_animations=false&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF"
+      src="https://brunom8218-readme-state.vercel.app/api?username=satosh-j&hide=contribs&show_icons=true&count_private=true&include_all_commits=true&disable_animations=false&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF"
       alt='github-stats'
     />
     <img
       height="180em"
-      src="https://satoshj-readme-state.vercel.app/api/top-langs?username=satosh-j&show_icons=true&langs_count=8&layout=compact&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF"
+      src="https://brunom8218-readme-state.vercel.app/api/top-langs?username=satosh-j&show_icons=true&langs_count=8&layout=compact&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF"
       alt='github-stats-toplangs'
     />
   </a>
