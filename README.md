@@ -116,8 +116,9 @@ Web/Full Stack projects
 | <img width=400/>|<img width=800/>|
 | :-----: | :-: |
 | Email | **<bmars8218@gmail.com>** |
-| Discord | **lionel8218** |
-| Telegram | [**lionel8218**] |
+| Email | **<kawanoaiyuki@gmail.com>** |
+| Discord | **bigstar9999** |
+| Telegram | [**BigStar2024**] |
 | <img width=400/> |  |
   
 </div>
