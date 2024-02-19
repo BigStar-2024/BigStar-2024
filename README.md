@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+Full+Stack+Developer;Senior+Blockchain+Developer)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+Full+Stack+Developer;Senior+Blockchain+Developer;Senior+Software+Developer)]()
 
 ## Skills
 - 🌱 Frontend : React, Next, Angular, Meteor, Blaze, Vue, Nuxt, Jquery, Material UI, Bootstrap, TailwindCSS
@@ -117,8 +117,11 @@ Web/Full Stack projects
 | :-----: | :-: |
 | Email | **<bmars8218@gmail.com>** |
 | Email | **<kawanoaiyuki@gmail.com>** |
-| Discord | **bigstar9999** |
+| Email | **<lijuba791@gmail.com>** |
+| Discord | **bigstar2024** |
 | Telegram | [**BigStar2024**] |
+| Skype | [**BigStar2024**] |
+| Chatwork | [**BigStar2024**] |
 | <img width=400/> |  |
   
 </div>
