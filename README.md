@@ -22,10 +22,10 @@
 ![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift)
 
 <p>
-  <a href="https://github.com/Brunom8218" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/BigStar-2024" target="_blank" rel="noopener noreferrer">
 <!--     <img
       height="180em"
-      src="https://github-readme-stats-wh3m.vercel.app/api?username=Brunom8218&hide=contribs&show_icons=true&count_private=true&include_all_commits=true&disable_animations=false&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF"
+      src="https://github-readme-stats-wh3m.vercel.app/api?username=BigStar-2024&hide=contribs&show_icons=true&count_private=true&include_all_commits=true&disable_animations=false&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF"
       alt='github-stats'
     /> -->
     <img
@@ -35,7 +35,7 @@
     />
 <!--     <img
       height="180em"
-      src="https://satoshj-readme-state.vercel.app/api/top-langs?username=Brunom8218&show_icons=true&langs_count=8&layout=compact&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF"
+      src="https://satoshj-readme-state.vercel.app/api/top-langs?username=BigStar-2024&show_icons=true&langs_count=8&layout=compact&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF"
       alt='github-stats-toplangs'
     /> -->
     <img
@@ -97,8 +97,8 @@ Web/Full Stack projects
 # 📊 GitHub Stats:
 # Do you want to see myteam work?
 ## Trademarktoday Business Website
-<a href="https://github.com/Brunom8218/trademarktoday-nextjs" target="_blank">![Trademarktoday](https://github.com/Brunom8218/trademarktoday-nextjs/blob/master/public/01.png?raw=true)</a>
-<a href="https://github.com/seniorcoder72/trademarktoday-nextjs" target="_blank">![Trademarktoday](https://github.com/Brunom8218/trademarktoday-nextjs/blob/master/public/02.png?raw=true)</a>
+<a href="https://github.com/BigStar-2024/trademarktoday-nextjs" target="_blank">![Trademarktoday](https://github.com/BigStar-2024/trademarktoday-nextjs/blob/master/public/01.png?raw=true)</a>
+<a href="https://github.com/seniorcoder72/trademarktoday-nextjs" target="_blank">![Trademarktoday](https://github.com/BigStar-2024/trademarktoday-nextjs/blob/master/public/02.png?raw=true)</a>
 ## InvestFarmLand Business Website
 <a href="https://github.com/seniorcoder72/invest-farm" target="_blank">![InvestFarm](https://github.com/seniorcoder72/invest-farm/blob/master/public/logo1.png?raw=true)</a>
 <a href="https://github.com/seniorcoder72/invest-farm" target="_blank">![InvestFarm](https://github.com/seniorcoder72/invest-farm/blob/master/public/logo2.png?raw=true)</a>
