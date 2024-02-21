@@ -1,16 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+Full+Stack+Developer;Senior+Blockchain+Developer;Senior+Software+Developer)]()
 
 ## Skills
-- 🌱 Frontend : React, Next, Angular, Meteor, Blaze, Vue, Nuxt, Jquery, Material UI, Bootstrap, TailwindCSS
+- 🌱 Frontend : React, Next,Web3.js, Angular, Meteor, Blaze, Vue, Nuxt, Jquery, Material UI, Bootstrap, TailwindCSS
+- ⚡ Blockchain: DEX, DAO, NFT, ERC20, ERC721, MetaVerse, Solidity
 - 🔭 Backend : NodeJs, CI, Laravel, Django, Express, Nestjs, PHP
 - 📲 Mobile: Android, React Native, Ionic, Flutter
-- 🎮 Gaming: Unity 3D, Solidworks
 - 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite
-- ⚡ Blockchain: DEX, DAO, NFT, ERC20, ERC721, MetaVerse, Solidity
 - 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, C++, C#, Go
 - 📫 Other : Machine Learning
   
 
+![Solidity](https://www.logo.wine/logo/Solidity)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Clojure](https://img.shields.io/badge/-Clojure-000000?style=flat&logo=Clojure)
