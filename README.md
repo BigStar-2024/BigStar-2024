@@ -205,9 +205,15 @@
   </a>
 </p>
 
+<p align="center">
+    <a href="https://github-readme-activity-graph.vercel.app/graph?username=BigStar-2024&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=BigStar-2024&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
+<!-- activity graph bigstar-app end -->
 
-## Tools
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<!-- ## Tools -->
+<!-- <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="45" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="45" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"></code>
@@ -243,7 +249,7 @@
 <code><img height="45" src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67"></code>
 <code><img height="45" src="https://brandslogos.com/wp-content/uploads/images/heroku-logo.png"></code>
 <code><img height="45" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/microsoft_windows-512.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code> -->
 
 Web/Full Stack projects
 
@@ -252,9 +258,15 @@ Web/Full Stack projects
 [![Chip Leader AI](https://img.shields.io/badge/-🃏&nbsp;&nbsp;ChipLeaderAI-000000?style=flat)](https://ai.chipleader.com)
 [![CoProperty](https://img.shields.io/badge/-📰&nbsp;Co&nbsp;Property-000000?style=flat)](https://coproperty.cloud)
 
+<p align="center">
+<a href="https://github.com/BigStar-2024?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=BigStar-2024&theme=onestar&no-frame=true&column=3&row=2"  width="50%" height="50%" alt="@Goblin's trophy stats"/></a>
+</p>
 
-# 📊 GitHub Stats:
-# Do you want to see myteam work?
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+</p>
+
+<!-- # Do you want to see myteam work? -->
 ## Trademarktoday Business Website
 <a href="https://github.com/BigStar-2024/trademarktoday-nextjs" target="_blank">![Trademarktoday](https://github.com/BigStar-2024/trademarktoday-nextjs/blob/master/public/01.png?raw=true)</a>
 <a href="https://github.com/seniorcoder72/trademarktoday-nextjs" target="_blank">![Trademarktoday](https://github.com/BigStar-2024/trademarktoday-nextjs/blob/master/public/02.png?raw=true)</a>
