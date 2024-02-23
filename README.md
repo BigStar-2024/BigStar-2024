@@ -180,31 +180,41 @@
  </tr>
 </table>
 
-<p>
+### PROJECTS AND DEV STUFF
+<b>⚡ Github Stats</b>
+    <br />
+    <!-- <p align="center">
+        <a href="https://github.com/BigStar-2024?tab=repositories">
+            <img width="54%" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BigStar-2024&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+            <img width="45%" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BigStar-2024&theme=gotham&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact"/>
+        </a>
+    </p> -->
+    <p>
   <a href="https://github.com/BigStar-2024" target="_blank" rel="noopener noreferrer">
-    <!-- <img
-      height="180em"
-      src="https://github-readme-stats-wh3m.vercel.app/api?username=BigStar-2024&hide=contribs&show_icons=true&count_private=true&include_all_commits=true&disable_animations=false&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF"
-      alt='github-stats'
-    /> -->
     <img
       height="180em"
-      src="https://satoshj-readme-state.vercel.app/api?username=satosh-j&hide=contribs&show_icons=true&count_private=true&include_all_commits=true&disable_animations=false&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF"
+      src="https://satoshj-readme-state.vercel.app/api?username=BigStar-2024&hide=contribs&show_icons=true&count_private=true&include_all_commits=true&disable_animations=false&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF"
       alt='github-stats'
     />
-<!--     <img
-      height="180em"
-      src="https://satoshj-readme-state.vercel.app/api/top-langs?username=BigStar-2024&show_icons=true&langs_count=8&layout=compact&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF"
-      alt='github-stats-toplangs'
-    /> -->
     <img
       height="180em"
-      src="https://satoshj-readme-state.vercel.app/api/top-langs?username=satosh-j&show_icons=true&langs_count=8&layout=compact&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF"
+      src="https://satoshj-readme-state.vercel.app/api/top-langs?username=BigStar-2024&show_icons=true&langs_count=8&layout=compact&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF"
       alt='github-stats-toplangs'
     />
   </a>
 </p>
 
+</p>
+
+<b>☄️ Github Streaks</b>
+  
+  <br />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=BigStar-2024&theme=gotham&hide_border=true" />
+
+
+<b>📊 Total Contribution Graph</b>
+
+</br>
 <p align="center">
     <a href="https://github-readme-activity-graph.vercel.app/graph?username=BigStar-2024&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=BigStar-2024&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
@@ -251,12 +261,7 @@
 <code><img height="45" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/microsoft_windows-512.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code> -->
 
-Web/Full Stack projects
 
-[![Learn with Socrates](https://img.shields.io/badge/-🏫&nbsp;&nbsp;LearnWithSocrates-000000?style=flat)](https://practiceplaygrow.com)
-[![Cyop Community DAO Terminal](https://img.shields.io/badge/-💎&nbsp;CyOp&#8209;Terminal-000000?style=flat)](https://cyop.io)
-[![Chip Leader AI](https://img.shields.io/badge/-🃏&nbsp;&nbsp;ChipLeaderAI-000000?style=flat)](https://ai.chipleader.com)
-[![CoProperty](https://img.shields.io/badge/-📰&nbsp;Co&nbsp;Property-000000?style=flat)](https://coproperty.cloud)
 
 <p align="center">
 <a href="https://github.com/BigStar-2024?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=BigStar-2024&theme=onestar&no-frame=true&column=3&row=2"  width="50%" height="50%" alt="@Goblin's trophy stats"/></a>
@@ -267,26 +272,36 @@ Web/Full Stack projects
 </p>
 
 <!-- # Do you want to see myteam work? -->
+### 🥇 Web/Full Stack projects
+
+[![Learn with Socrates](https://img.shields.io/badge/-🏫&nbsp;&nbsp;LearnWithSocrates-000000?style=flat)](https://practiceplaygrow.com)
+[![Cyop Community DAO Terminal](https://img.shields.io/badge/-💎&nbsp;CyOp&#8209;Terminal-000000?style=flat)](https://cyop.io)
+[![Chip Leader AI](https://img.shields.io/badge/-🃏&nbsp;&nbsp;ChipLeaderAI-000000?style=flat)](https://ai.chipleader.com)
+[![CoProperty](https://img.shields.io/badge/-📰&nbsp;Co&nbsp;Property-000000?style=flat)](https://coproperty.cloud)
+
+
 ## Trademarktoday Business Website
 <a href="https://github.com/BigStar-2024/trademarktoday-nextjs" target="_blank">![Trademarktoday](https://github.com/BigStar-2024/trademarktoday-nextjs/blob/master/public/01.png?raw=true)</a>
 <a href="https://github.com/seniorcoder72/trademarktoday-nextjs" target="_blank">![Trademarktoday](https://github.com/BigStar-2024/trademarktoday-nextjs/blob/master/public/02.png?raw=true)</a>
-## InvestFarmLand Business Website
-<a href="https://github.com/seniorcoder72/invest-farm" target="_blank">![InvestFarm](https://github.com/seniorcoder72/invest-farm/blob/master/public/logo1.png?raw=true)</a>
-<a href="https://github.com/seniorcoder72/invest-farm" target="_blank">![InvestFarm](https://github.com/seniorcoder72/invest-farm/blob/master/public/logo2.png?raw=true)</a>
-## Google Map API Delivery Site
-<a href="https://github.com/seniorcoder72/Google-Map-API" target="_blank">![GoogleMapAPI](https://github.com/StevenHocking/Google-Map-API/blob/master/refs/Frontend-1.png?raw=true)</a>
-<a href="https://github.com/seniorcoder72/Google-Map-API" target="_blank">![GoogleMapAPI](https://github.com/StevenHocking/Google-Map-API/blob/master/refs/Frontend-2.png?raw=true)</a>
 
-## Theme & Dashboard
+## Knights Of Chain NFT
+  <a href="https://skytech.framer.website/#portfolio" target="_blank">![Knights Of Chain NFT](https://i.ibb.co/1KSRT8z/knight.png)</a>
+  <a href="https://skytech.framer.website/#portfolio" target="_blank">![Knights Of Chain NFT](https://i.ibb.co/8dWvX1G/knight2.png)</a>
+
+<!-- ## Google Map API Delivery Site
+<a href="https://github.com/seniorcoder72/Google-Map-API" target="_blank">![GoogleMapAPI](https://github.com/StevenHocking/Google-Map-API/blob/master/refs/Frontend-1.png?raw=true)</a>
+<a href="https://github.com/seniorcoder72/Google-Map-API" target="_blank">![GoogleMapAPI](https://github.com/StevenHocking/Google-Map-API/blob/master/refs/Frontend-2.png?raw=true)</a> -->
+
+<!-- ## Theme & Dashboard
 <a href="https://github.com/seniorcoder72/Kanban-React" target="_blank">![KanbanReact](https://raw.githubusercontent.com/seniorcoder72/Kanban-React/master/img/img1.jpg?raw=true)</a>
-![footer](https://github.com/stayForward09/stayForward09/blob/main/footer.jpg)
+![footer](https://github.com/stayForward09/stayForward09/blob/main/footer.jpg) -->
 
 <div align="center">
   
 | <img width=400/>|<img width=800/>|
 | :-----: | :-: |
-| Email | **<bmars8218@gmail.com>** |
 | Email | **<kawanoaiyuki@gmail.com>** |
+| Email | **<bmars8218@gmail.com>** |
 | Email | **<lijuba791@gmail.com>** |
 | Discord | **bigstar2024** |
 | Telegram | [**BigStar2024**] |
@@ -294,4 +309,8 @@ Web/Full Stack projects
 | Chatwork | [**BigStar2024**] |
 | <img width=400/> |  |
   
+</div>
+
+<div align="center">
+    <h2>Thanks for visiting <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h2>
 </div>
