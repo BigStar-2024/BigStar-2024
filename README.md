@@ -301,12 +301,12 @@
 ![footer](https://github.com/stayForward09/stayForward09/blob/main/footer.jpg) -->
 
 <div align="center">
+<!-- | Email | **<lijuba791@gmail.com>** |
+| Email | **<bmars8218@gmail.com>** | -->
   
 | <img width=400/>|<img width=800/>|
 | :-----: | :-: |
 | Email | **<kawanoaiyuki@gmail.com>** |
-| Email | **<bmars8218@gmail.com>** |
-| Email | **<lijuba791@gmail.com>** |
 | Discord | **bigstar2024** |
 | Telegram | [**BigStar2024**] |
 | Skype | [**BigStar2024**] |
