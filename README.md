@@ -306,7 +306,8 @@
   
 | <img width=400/>|<img width=800/>|
 | :-----: | :-: |
-| Email | **<watanabe0204.sky@gmail.com>** |
+| Email | **<kawanoaiyuki@gmail.com>** |
+| Email | **<watanabe02.04sky@gmail.com>** |
 | Discord | **bigstar2024** |
 | Telegram | [**BigStar2024**] |
 | Skype | [**BigStar2024**] |
