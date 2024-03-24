@@ -306,12 +306,12 @@
   
 | <img width=400/>|<img width=800/>|
 | :-----: | :-: |
-<!-- | Email | **<kawanoaiyuki@gmail.com>** |
 | Email | **<watanabe02.04sky@gmail.com>** |
+| Email | **<kawanoaiyuki@gmail.com>** |
 | Discord | **bigstar2024** |
 | Telegram | [**BigStar2024**] |
 | Skype | [**BigStar2024**] |
-| Chatwork | [**BigStar2024**] | -->
+| Chatwork | [**BigStar2024**] |
 | <img width=400/> |  |
   
 </div>
