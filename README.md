@@ -240,7 +240,7 @@
 <a href="https://github.com/seniorcoder72/trademarktoday-nextjs" target="_blank">![Trademarktoday](https://github.com/BigStar-2024/trademarktoday-nextjs/blob/master/public/02.png?raw=true)</a>
 
 ## Token Swaping DAPP
-  <a href="https://skytech.framer.website/#portfolio" target="_blank">![Token Swaping DAPP](https://i.ibb.co/XFKV40w/tokenswapping.png?raw=true)</a>
+  <a href="https://skytech.framer.website/#portfolio" target="_blank" style="width:800px; height: auto; background-size: cover; ">![Token Swaping DAPP](https://i.ibb.co/XFKV40w/tokenswapping.png?raw=true)</a>
   <a href="https://skytech.framer.website/#portfolio" target="_blank">![Token Swaping DAPP](https://i.ibb.co/n6bTDZh/tokenswapping2.png?raw=true")</a>
 
 ## Knights Of Chain NFT
@@ -254,19 +254,22 @@
   
 | <img width=400/>|<img width=800/>|
 | :-----: | :-: |
-<!-- | Email | **<watanabe02.04sky@gmail.com>** |
+| Email | **<watanabe02.04sky@gmail.com>** |
 | Email | **<kawanoaiyuki@gmail.com>** | -->
-<!-- | Discord | **bigstar2024** |
-| Telegram | [**BigStar2024**] |
+| Discord | **bigstar2024** | -->
+| Telegram | [**SkyTech_2024**] |
 | Skype | [**BigStar2024**] |
 | Chatwork | [**BigStar2024**] |
-| <img width=400/> |  | -->
+| <img width=400/> |  |
   
 </div>
 
-<p align="center">
+<!-- <p align="center">
     <img src="https://user-images.githubusercontent.com/110062591/199664030-9e8cb78a-e462-4368-995a-a792a1c0ed69.gif" />
-</p>
+</p> -->
 <div align="center">
     <h2>Thanks for visiting <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h2>
 </div>
+
+<style>
+  
