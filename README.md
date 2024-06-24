@@ -254,8 +254,6 @@
   
 | <img width=400/>|<img width=800/>|
 | :-----: | :-: |
-<!-- | Email | **<watanabe02.04sky@gmail.com>** | -->
-<!-- | Email | **<@gmail.com>** | -->
 | Email | **<bigstar2024skytech@gmail.com>** | -->
 | Discord | **bigstar2024** | -->
 | Telegram | [**SkyTech_2024**] |
