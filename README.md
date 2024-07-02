@@ -221,19 +221,19 @@
 <p align="center">
 <a href="https://github.com/BigStar-2024?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=BigStar-2024&theme=onestar&no-frame=true&column=3&row=2"  width="50%" height="50%" alt="@Goblin's trophy stats"/></a>
 </p>
-
+<!-- 
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
-</p>
+</p> -->
 
 <!-- # Do you want to see myteam work? -->
-### 🥇 Web/Full Stack projects
+<!-- ### 🥇 Web/Full Stack projects
 
 [![Learn with Socrates](https://img.shields.io/badge/-🏫&nbsp;&nbsp;LearnWithSocrates-000000?style=flat)](https://practiceplaygrow.com)
 [![Cyop Community DAO Terminal](https://img.shields.io/badge/-💎&nbsp;CyOp&#8209;Terminal-000000?style=flat)](https://cyop.io)
 [![Chip Leader AI](https://img.shields.io/badge/-🃏&nbsp;&nbsp;ChipLeaderAI-000000?style=flat)](https://ai.chipleader.com)
 [![CoProperty](https://img.shields.io/badge/-📰&nbsp;Co&nbsp;Property-000000?style=flat)](https://coproperty.cloud)
-
+ -->
 
 <!-- ## Trademarktoday Business Website
 <a href="https://github.com/BigStar-2024/trademarktoday-nextjs" target="_blank">![Trademarktoday](https://github.com/BigStar-2024/trademarktoday-nextjs/blob/master/public/01.png?raw=true)</a>
@@ -266,8 +266,8 @@
 <!-- <p align="center">
     <img src="https://user-images.githubusercontent.com/110062591/199664030-9e8cb78a-e462-4368-995a-a792a1c0ed69.gif" />
 </p> -->
-<div align="center">
+<!-- <div align="center">
     <h2>Thanks for visiting <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h2>
-</div>
+</div> -->
 
   
