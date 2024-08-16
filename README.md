@@ -7,7 +7,7 @@
 - 📲 Mobile: Android, React Native, Ionic, Flutter
 - 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite, AES Lambda, Spring Cloud
 - 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, C++, C#, Go
-- 🔥 CMS: WordPress, Shopify, Wix, Framer, Webflow
+- 🔥 CMS: WordPress, Shopify
   
 
 <!-- ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
