@@ -255,9 +255,9 @@
 | <img width=400/>|<img width=800/>|
 | :-----: | :-: |
 | Email | **<bigstar2024skytech@gmail.com>** | -->
-| Discord | **SkyTech2024** | -->
-| Telegram | [**SkyTech_2024**] | 
-| Chatwork | [**BigStar2024**] |
+<!-- | Discord | **SkyTech2024** | --> -->
+<!-- | Telegram | [**SkyTech_2024**] |  -->
+<!-- | Chatwork | [**BigStar2024**] | -->
 | <img width=400/> |  |
   
 </div>
