@@ -21,7 +21,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 ![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift) -->
 
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -178,7 +178,7 @@
       <br>PostgreSQL
     </td>
  </tr>
-</table>
+</table> -->
 
 ### PROJECTS AND DEV STUFF
 <b>⚡ Github Stats</b>
