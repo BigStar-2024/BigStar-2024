@@ -258,7 +258,7 @@
 <!-- | Discord | **SkyTech2024** | --> 
 <!-- | Telegram | [**SkyTech_2024**] |  -->
 <!-- | Chatwork | [**BigStar2024**] | -->
-| <img width=400/> |  
+<!-- | <img width=400/> |   -->
   
 </div>
 
