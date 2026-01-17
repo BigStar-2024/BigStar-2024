@@ -1,13 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+Full+Stack+Developer;)]()
-
-## Skills
-
-- 🌱 Frontend : React, Next, Web3, Angular, Vue, Nuxt, Anchor, Jquery, Material UI, Bootstrap, TailwindCSS
-- 🔭 Backend : NodeJs, CI, Laravel, Django, Flask, Express, Nestjs, PHP, .NET
-- ⚡ Blockchain: DEX, DAO, NFT, ERC20, ERC721, MetaVerse, Solidity, Rust, Smart contracts, Cryptography, Distributed Systems
-<!-- - 📲 Mobile: Android, React Native, Ionic, Flutter -->
-- 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite, AWS Lambda, Spring Cloud, Supabase
-- 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, C++, C#, Solidity, Rust, Go
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+Software+Engineer;)]()
+ 
 
 <!-- ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
@@ -179,7 +171,7 @@
  </tr>
 </table> -->
 
-## My Github Stats
+## Github Stats
 
 `<b>`⚡ Github stats`</b>`
     `<br />`
@@ -252,7 +244,7 @@
 | :------------------: | :-----------------------------: |
 |        Email        | **<bmars8218@gmail.com>** |
 
-</div> -->
+</div>
 
  -->
 
